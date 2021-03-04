@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.nurirppan.development.MainActivity">
+
+    <Button
+        android:id="@+id/btnOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Single Non-consumable one-time product" />
+
+    <Button
+        android:id="@+id/btnTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Multiple Non-consumable one-time product" />
+
+    <Button
+        android:id="@+id/btnThree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Single Consumable one-time product" />
+
+    <Button
+        android:id="@+id/btnFour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Multiple Consumable one-time product" />
+
+    <Button
+        android:id="@+id/btnFive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Single In App Subscriptions" />
+
+    <Button
+        android:id="@+id/btnSix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="For Multiple In App Subscriptions" />
+
+</LinearLayout>

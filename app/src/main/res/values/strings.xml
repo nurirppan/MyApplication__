@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_single_non_consumable_one_time_product">
+        SingleNonConsumableOneTimeProductAct
+    </string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="rsa_public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtOY5C2o2mtyEGCTGyj4LkRft2M/Ng6bVhA9p8vksxGdG7PDBuDLgfW5lj3aTHLDGY/8NYlIDmCgwls0GYFpI0KKq8J7Q37FFMCl9wCHW5MWyick7F4nDtngMcer7UZqMuLxhfsYNbFXhdLy2GuxMgz07WMnVuh7ufX3VIg1gyj2Z1TsJDXFZylSRbzMY7jtIyjpEi7W0onMSuJw4QmHOWBcWUYxH0RDL8rGM3u1nwQe+y/+3Uy5EmhZzQ478iFj7hG74HSkfynl1ngauxVVFjZ9P9iSmQrsk0W50gF5wXnLBC+wh5vbTnQ3/2cFVbl75dZEpW0p91JrLSK89uYU+tQIDAQAB</string>
+
+</resources>
